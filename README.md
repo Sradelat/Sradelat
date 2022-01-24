@@ -1,12 +1,19 @@
 learning_python = True
+
 python_certificate = True
 
 while learning_python:
-    goals = ["Create projects", "Stay healthy", "Have fun"]
+
+	goals = ["Create projects", "Stay healthy", "Have fun"]
+	
     if python_certificate = True:
+	
         goals.append("Learn machine learning")
+		
     else:
+	
         break
+		
 print("Hello World!)
   
 <!-- - 👀 I’m interested in Software Development / Machine Learning
