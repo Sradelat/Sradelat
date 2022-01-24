@@ -16,5 +16,4 @@ while learning_python:
     break
 print(intro)
 
-> Hello World! I'm here to create projects, stay healthy, have fun, and study machine learning!
-<pre>
+> Hello World! I'm here to create projects, stay healthy, have fun, and study machine learning!<pre>
