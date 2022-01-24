@@ -15,6 +15,7 @@ while learning_python:
         else:
             intro += f"{goal}, "
     break
+    
 print(intro)
 
-> Hello World! I'm here to create projects, stay healthy, have fun, and study machine learning!<pre>
+> Hello World! I'm here to create projects, stay healthy, have fun, and study machine learning!</pre>
