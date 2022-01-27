@@ -7,8 +7,6 @@ while learning_python:
     goals = ["create projects", "stay healthy", "have fun"]
     if python_certificate is True:
         goals.append("study machine learning")
-    else:
-        continue
     for goal in goals:
         if goal is goals[-1]:
             intro += f"and {goal}!"
