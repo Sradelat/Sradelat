@@ -1,11 +1,12 @@
 <pre>learning_python = True
 python_certificate = True
+data_analysis_certificate = True
 machine_learning_certificate = False
 intro = "Hello World! I'm here to "
 
 while learning_python:
     goals = ["create projects", "stay healthy", "have fun"]
-    if python_certificate is True:
+    if python_certificate and data_analysis_certificate is True:
         goals.append("study machine learning")
     for goal in goals:
         if goal is goals[-1]:
