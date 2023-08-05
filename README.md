@@ -17,4 +17,6 @@ while learning_python:
     
 print(intro)
 
-> Hello World! I'm here to create projects, stay healthy, have fun, and study machine learning!</pre>
+> Hello World! I'm here to create projects, stay healthy, have fun, and study machine learning!
+
+error C2065: 'learning_python': undeclared identifier</pre>
